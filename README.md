@@ -3,7 +3,7 @@
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
 
-![portfolio-all](./assets/portfolio-all.png)
+https://github.com/netology-code/ra16-homeworks/blob/master/events-state/filter/assets/portfolio-all.png
 
 ## Описание проекта
 
