@@ -10,7 +10,6 @@ export default class Portfolio extends React.Component {
 
 		this.state = {
 			selected: null,
-			category: null
 		}
 	}
 
